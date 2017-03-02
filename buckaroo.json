@@ -1,0 +1,12 @@
+{
+  "name": "boost-chrono",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-predef": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-preprocessor": "1.63.0",
+    "boost-ratio": "1.63.0",
+    "boost-system": "1.63.0",
+    "boost-throw-exception": "1.63.0"
+  }
+}
